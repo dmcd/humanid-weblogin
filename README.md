@@ -138,8 +138,8 @@ To check whether log-in failed or not, simply check if parameter `et` appended i
         "code": "OK",
         "message": "Success",
         "data": {
-            "userAppId": "<UNIQUE_USER_ID>",
-            "countryCide": "ID"
+            "appUserId": "<UNIQUE_USER_ID>",
+            "countryCode": "US"
         }
     }
     ```
